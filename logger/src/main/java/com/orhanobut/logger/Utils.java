@@ -161,6 +161,9 @@ final class Utils {
   public static int yimin() {
     return 2;
   }
+  public static int yimin() {
+    return 3;
+  }
 
 
 }
