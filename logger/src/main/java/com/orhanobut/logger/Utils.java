@@ -154,4 +154,10 @@ final class Utils {
     }
     return obj;
   }
+
+  public static int yimin() {
+    return 1;
+  }
+
+
 }
